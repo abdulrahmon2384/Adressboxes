@@ -11,19 +11,3 @@ You will also need a "display" function to display a record or records when sele
 
 
 
-
-...installation
-
-#install the package from git hub Make sure git clone is installed on your terminal
-git clone https://github.com/abdulrahmon2384/Adressboxes
-
-#moving to adressbox directory
-cd Adressboxes
-
-#changing file mod
-chmod +x  *
-
-#display using
-./adressbox.sh
-or
-bash addressbox.sh
