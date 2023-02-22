@@ -25,5 +25,4 @@ chmod +x  *
 
 #display using
 ./adressbox.sh
-or
 bash addressbox.sh
